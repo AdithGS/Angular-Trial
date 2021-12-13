@@ -1,0 +1,26 @@
+ul{
+    list-style-type: none;
+   
+}
+.social{
+    display: inline;
+    padding: 15px;
+    margin: 15px;
+}
+.soc-pos{
+    margin-top: 35px;
+}
+span{
+    display:inline-block;
+    border-bottom:2px solid black;
+    padding-bottom:2px;
+}
+li{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+.arrow{
+    font-size: 10px;
+    color: rgb(37, 49, 59);
+    padding: 5px;
+}

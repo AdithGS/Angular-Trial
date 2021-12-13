@@ -1,0 +1,22 @@
+.pos{
+    padding-left:450px;
+    text-align: center;
+}
+/* .nav-li{
+    text-align: right;
+    padding-left: 25px;
+} */
+li{
+    cursor: pointer;
+}
+.ld{
+    background-color: #263238;
+}
+/* .srch{
+padding-left: 245px;
+} */
+a{
+   padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+}
